@@ -1,8 +1,5 @@
 # Analisis Perilaku Konsumen Berdasarkan Gender untuk Meningkatkan Strategi Pemasaran
 
-## Deskripsi
-
-Perusahaan ingin mengidentifikasi pola pembelian konsumen berdasarkan data yang tersedia. Dengan pemahaman pola-pola ini, perusahaan dapat merancang strategi pemasaran yang lebih terarah, meningkatkan pengalaman pelanggan, dan pada akhirnya, meningkatkan penjualan produk.
 
 ## Tujuan
 
